@@ -1,0 +1,7 @@
+{
+  "name": "森影营销 - 3D 智能视觉实验室",
+  "description": "基于 Gemini 2.5 Flash Image 的高端 3D 作品集与 AI 营销视觉工具。将您的产品瞬间转化为户外广告、艺术杯具或时尚服饰，沉浸在富有呼吸感的森林美学 3D 空间中。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
